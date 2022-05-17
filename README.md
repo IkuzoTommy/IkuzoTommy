@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/ikuzotommy/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LinkedIn&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
-  <a href="twitter.com/IkuzoTommy" target="_blank">
+  <a href="https://twitter.com/IkuzoTommy" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=Twitter&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
   </a>
 <!--   <a href="#" target="_blank">
